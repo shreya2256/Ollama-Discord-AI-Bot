@@ -85,17 +85,17 @@ model: "llama3",
 
 to any model you installed:
 
-1.mistral
+1. mistral
 
-2.gemma
+2. gemma
 
-3.phi3
+3. phi3
 
-4.deepseek-r1
+4. deepseek-r1
 
-5.llama3.1
+5. llama3.1
 
-6.qwen2
+6. qwen2
 
 🤝 Contributing
 
