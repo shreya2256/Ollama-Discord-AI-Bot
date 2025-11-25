@@ -4,6 +4,7 @@ A powerful Discord bot that connects Discord.js with Ollama to generate AI respo
 Supports Node.js 22+, slash commands, environment variables, and modular bot structure.
 
 📌 Features
+
 🤖 Connects Discord bot with Ollama (local AI models)
 
 ⚡ Slash command: /ask → ask anything
