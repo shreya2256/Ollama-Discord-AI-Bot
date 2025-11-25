@@ -1,0 +1,14 @@
+{
+  "name": "discord-ollama-bot",
+  "version": "1.0.0",
+  "description": "Discord bot that forwards prompts to a local Ollama model",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^16.6.1"
+  }
+}
