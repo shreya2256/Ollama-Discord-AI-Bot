@@ -19,13 +19,14 @@ Component	Technology
 
 Bot Framework	Discord.js (v14+) check this link "https://discord.js.org/docs/packages/discord.js/14.25.1"
 
-AI	Ollama (local models)
+AI	Ollama (local models) check this link "https://github.com/ollama/ollama"
 
 Runtime	Node.js 22+
 
 Environment	dotenv
 
 📁 Project Structure
+
 discord-ai-bot/
 
 │── index.js
@@ -37,6 +38,7 @@ discord-ai-bot/
 └── README.md
 
 🔧 Installation & Setup
+
 1️⃣ Clone the repository
 
 git clone <your-repo-url>
