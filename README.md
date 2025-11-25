@@ -41,7 +41,7 @@ discord-ai-bot/
 
 1️⃣ Clone the repository
 
-git clone <your-repo-url>
+git clone https://github.com/shreya2256/Ollama-Discord-AI-Bot.git
 
 cd discord-ai-bot
 
