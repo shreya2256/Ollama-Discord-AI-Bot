@@ -5,8 +5,11 @@ Supports Node.js 22+, slash commands, environment variables, and modular bot str
 
 📌 Features
 🤖 Connects Discord bot with Ollama (local AI models)
+
 ⚡ Slash command: /ask → ask anything
+
 🧠 Works with any Ollama model (LLaMA, Mistral, Deepseek, Gemma, etc.)
+
 🔒 Secure .env setup
 
 🏗️ Tech Stack
