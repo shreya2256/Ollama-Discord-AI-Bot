@@ -27,9 +27,13 @@ Environment	dotenv
 
 📁 Project Structure
 discord-ai-bot/
+
 │── index.js
+
 │── package.json
+
 │── .env
+
 └── README.md
 
 🔧 Installation & Setup
